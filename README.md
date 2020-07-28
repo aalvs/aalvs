@@ -8,7 +8,7 @@
  
 ## About me 
 
--   🕵🏻‍♂️  Atualmente estou busca de uma oportunidade como Designer de Interação ou Desenvolvedor Web. 
+-   🕵🏻‍♂️  Atualmente estou em busca de uma oportunidade como Designer de Interação ou Desenvolvedor Web. 
 -   🎓  Estou cursando Graduação em Análise e Desenvolvimento de Sistemas na Unicesumar.
 -   📚  Também estou cursando um Extensão em Desenvolvimento Front-End na HSM University.
 -   💻  Atuei como UX/UI Designer no desenvolvimento de interfaces de produtos B2C, B2B e F&B.
