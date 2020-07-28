@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://assets10.lottiefiles.com/private_files/lf30_WdTEui.json">
+
 [<img src="https://raw.githubusercontent.com/aalvs/aalvs/master/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/aalvs/)
 
 ## Hello World! I'm André Alves! 🙋🏻‍♂️
@@ -14,6 +14,7 @@
 -   💻  Atuei como UX/UI Designer no desenvolvimento de interfaces de produtos B2C, B2B e F&B.
 -   🎯  Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
 -   ⚡  Estou aprendendo novas tecnologias Web: Node, React, TS, Angular e Bootstrap.
+
 
 - Thanks for visiting. 
 
