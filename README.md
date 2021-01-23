@@ -7,7 +7,7 @@
     <img align="center" width="300" src="binary.gif" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="coding.gif" />
+    <img align="center" width="400" src="coding.gif" />
   </a>
 </p>
 
