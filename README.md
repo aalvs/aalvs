@@ -3,15 +3,6 @@
 -  👨🏻‍💻 UX/UI Designer and Frontend Developer.
 
 <p align="center">
-  <a href="#">
-    <img align="center" width="300" src="binary.gif" />
-  </a>
-  <a href="#">
-    <img align="center" width="400" src="coding.gif" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
