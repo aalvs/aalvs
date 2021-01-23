@@ -1,16 +1,39 @@
+### Hello World! I'm André Alves! 🙋🏻‍♂️
 
-[<img src="https://raw.githubusercontent.com/aalvs/aalvs/master/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/aalvs/)
+-  👨🏻‍💻 UX/UI Designer and Frontend Developer.
 
-## Hello World! I'm André Alves! 🙋🏻‍♂️
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="binary.gif" />
+  </a>
+  <a href="#">
+    <img align="center" width="510" src="coding.gif" />
+  </a>
+</p>
 
--  👨🏻‍💻 Front-End Developer and UI/UX Designer.
- 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvs&layout=compact&bg_color=151515"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=aalvs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    />
+  </a>
+</p>
+
 ## About me 
  
 -   🎓  Graduação em Análise e Desenvolvimento de Sistemas na Unicesumar.
 -   📚  Extensão em Desenvolvimento Front-End na HSM University.
--   💻  Já atuei no desenvolvimento de interfaces de produtos B2C, B2B e F&B.
 -   ⚡  Tecnologias: HTML/CSS, JS, React, Angular, Vue e Bootstrap.
 
+### Find me around the web 🌎:
 
-- Thanks for visiting. 
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/aalvs/">LinkedIn</a>.
+- 💻 Following me on <a href="https://app.rocketseat.com.br/me/aalvs/">Rocketseat</a>.
