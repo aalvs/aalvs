@@ -20,9 +20,9 @@
 
 ## About me 
  
--   🎓  Graduação em Análise e Desenvolvimento de Sistemas na Unicesumar.
--   📚  Extensão em Desenvolvimento Front-End na HSM University.
--   ⚡  Tecnologias: HTML/CSS, JS, React, Angular, Vue e Bootstrap.
+-   🎓  Graduation in Systems Analysis and Development at Unicesumar.
+-   📚  Extension in Front-End Development at HSM University.
+-   ⚡  Technologies: HTML/CSS, JS, React, Angular, Vue e Bootstrap.
 
 ### Find me around the web 🌎:
 
